@@ -23,22 +23,8 @@ export const portfolioConfig = {
     url: "https://mdtaquiimam.vercel.app",
     twitterHandle: "@Taquiimam14",
     keywords: [
-      "md",
-      "taqui",
-      "imam",
-      "Md",
-      "MD",
-      "TAQUI",
-      "Taqui",
-      "Imam",
-      "Imam",
-      "Md Taqui Imam",
-      "md taqui imam",
-      "mdtaqui",
-      "mdtaquiimam",
-      "taqui imam",
-      "Taqui Imam",
-      "Taquiimam",
+      "Aman kumar",
+      "Aman",
       "portfolio",
       "web developer",
       "web",
@@ -46,16 +32,12 @@ export const portfolioConfig = {
       "developer",
       "PROGRAMMER ",
       "programmer ",
-      "MD TAQUI IMAM ",
-      "website",
-      "@Taquiimam",
-      "Taquiimam",
-      "taqui developer",
+      
     ],
     authors: [
       {
-        name: "Taqui Imam",
-        url: "https://github.com/taqui-786",
+        name: "Aman Kumar",
+        url: "https://github.com/kumaraman22",
       },
     ],
   },
@@ -248,21 +230,8 @@ export const portfolioConfig = {
         "ChatApp is similar to instagram, you can create, edit, delete, like,comment, post and  Follow, unfollow users",
       tags: ["Reactjs", "Javascript"],
       link: "https://github.com/taqui-786/chatapp-api",
-    },
-    {
-      title: "Devletter - A Newsletter for devs",
-      description:
-        "Devletter ia a newsletter subscribing single page app made with Nextjs and Tailwindcss.",
-      tags: ["Nextjs", "Tailwindcss"],
-      link: "https://github.com/taqui-786/Devletter",
-    },
-    {
-      title: "CrouMaker - A Crousal Maker App",
-      description:
-        "Crousal Maker is a tool with in-built crousals templates edit and download it in any format.",
-      tags: ["Nextjs", "jsPDF", "html2canvas", "Shadcn Ui"],
-      link: "https://github.com/taqui-786/crousal-maker",
-    },
+    }
+    
   ],
 
   // More Links Information
