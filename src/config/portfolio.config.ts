@@ -2,7 +2,7 @@ export const portfolioConfig = {
   // Basic Information
   name: "Aman Soni",
   title: "Product Engineer",
-  description: "I am a Passionate Software Developer",
+  description: "I am a Passionate Software Developer and Product Engineer",
   location: "Noida, Delhi-NCR, India",
 
   // Contact Information
